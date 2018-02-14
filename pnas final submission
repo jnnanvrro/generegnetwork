@@ -1,0 +1,67 @@
+### first page
+Title: Titles should be no more than three typeset lines (generally 135 characters including spaces) and should be comprehensible to a broad scientific audience. The organism studied should be included. Please provide a short title of fewer than 50 characters including spaces for mobile devices and RSS feeds.
+
+Gene Regulatory Networks
+
+
+Author Affiliation: Include department, institution, and complete address, with the ZIP/postal code, for each author. Use superscripts to match authors with institutions. Authors are strongly encouraged to supply their ORCID identifier at submission.
+
+Tianyun Lin, Biomathematics, UCLA, 621 Charles E Young Dr S, Los Angeles, CA 90024
+Mauricio Cruz Loya, Biomathematics, UCLA, 621 Charles E Young Dr S, Los Angeles, CA 90024
+Joanna Itzel Navarro, Statistics, UCLA, 520 Portola Plaza, Los Angeles, CA 90095
+Eli Sadovnik, Mathematics, UCLA, 520 Portola Plaza, Los Angeles, CA 90095
+
+
+Corresponding Author: The name, complete address, phone number, and email address of the author to whom correspondence and proofs should be sent. Email addresses will appear in the article footnotes.
+
+Tianyun Lin, tlin56@ucla.edu
+Mauricio Cruz Loya, mcruzloya@ucla.edu
+Joanna Itzel Navarro, jnnanvrro@ucla.edu
+Eli Sadovnik, ESadovnik@math.ucla.edu
+
+
+Keywords: Keywords are listed below the abstract of the published article. At least three keywords are required at submission.
+
+network science, biomathematics, computational genomics, systems biology
+
+
+### new page
+Abstract: Provide an abstract of no more than 250 words on page 2 of the manuscript. Abstracts should explain to the general reader the major contributions of the paper. References in the abstract must be cited in full within the abstract itself and cited in the text.
+
+Significance Statement: Authors must submit a 120-word-maximum statement about the significance of their research paper written at a level understandable to an undergraduate-educated scientist outside their field of specialty. The primary goal of the Significance Statement is to explain the relevance of the work in broad context to a broad readership. The Significance Statement appears in the article itself and is required for all research papers.
+
+Text: (introduction, results, discussion, materials and methods)
+Describe procedures in sufficient detail so that the work can be repeated. Methods must be presented after results and discussion. Follow the spelling and usage given in Webster's Third New International Dictionary or the Random House Dictionary of the English Language. Avoid laboratory jargon. Correct chemical names should be given, and strains of organisms should be specified. Trade names should be identified by an initial capital letter with the remainder of the name lowercase. Names of suppliers of uncommon reagents or instruments should be provided. Use Système International units and symbols whenever possible. Statements of novelty and priority are not permitted in the text.
+
+Language-Editing Services: Prior to submission, authors who believe their manuscripts would benefit from professional editing are encouraged to use a language-editing service (see list here). PNAS does not take responsibility for or endorse these services, and their use has no bearing on acceptance of a manuscript for publication.
+ 
+Use of URLs in Text: As a publisher, PNAS must be able to archive the data essential to a published article. Where such archiving is not possible, deposition of data in public databases, such as GenBank, ArrayExpress, Protein Data Bank, Unidata, and others outlined in the Information for Authors, is acceptable. Only links to websites that are permanent public repositories, such as self-perpetuating online resources funded by government, academia, and industry, are permitted. Links to an author's personal web page are not acceptable. PNAS allows authors to post their PNAS paper on their home page after the paper is published in PNAS.
+ 
+Gene Nomenclature: Prior to submission, authors should consult Genecards, MGI Nomenclature page, HUGO Gene Nomenclature Committee, or equivalent resources to ensure standardized nomenclature is used for species-specific gene and protein names. For proposed gene names, please submit the gene symbols to the appropriate nomenclature committee as these must be deposited and approved before publication of the article.
+ 
+Abbreviations: Abbreviations should be accessible to a broad scientific audience; abbreviations that are specific to a particular field should be defined at first mention in the text.
+ 
+Nomenclature and Style: Use international standards on nomenclature. PNAS uses Scientific Style and Format: The CSE Manual for Authors, Editors, and Publishers (8th edition, 2014) as the primary style guide.
+
+Footnotes
+PNAS distinguishes author affiliations and footnotes from in-text footnotes by assigning a different set of footnote symbols to each type. Superscript lowercase letters separated by commas (no spaces) are used for author affiliations. Superscript numerals separated by commas (no spaces) are used for author footnotes. In-text footnotes should be preceded by a footnote symbol, used in the order *, †, ‡, §, ¶, #, ||,**, ††, ‡‡, §§, ¶¶, ##.
+
+Acknowledgments: List acknowledgments and funding sources; all abbreviations should be spelled out. PNAS collaborates with FundRef to use a standard taxonomy of funder names. Dedications are rarely allowed.
+
+References: References must be in PNAS style. Only published or in-press papers and books may be cited in the reference list. For references to in-press articles, please confirm with the cited journal that the article is in press and include a DOI number and online publication date. Unpublished abstracts of papers presented at meetings or references to "data not shown" are not permitted. References should be cited in numerical order as they appear in text, and all references cited in the main text should be included in the main manuscript file. Because tables and figures will be inserted in the text where first cited, references in these sections should be numbered accordingly. Include the full title for each cited article. All authors may be named in the citation for initial submissions. For revisions or final submissions, if there are more than five authors, list the first author’s name followed by et al. Provide inclusive page ranges for journal articles and book chapters. Provide date of access for online sources.
+
+Journal articles are cited as follows:
+
+10. Neuhaus J-M, Sitcher L, Meins F, Jr, Boller T (1991) A short C-terminal sequence is necessary and sufficient for the targeting of chitinases to the plant vacuole. Proc Natl Acad Sci USA 88(22):10362-10366.
+
+Cite research datasets in the references if they have a DOI, and list the authors, title, publisher (repository name), and identifier (DOI in URL format) as follows:
+
+12. van Sebille E, Doblin M (2016) Data from “Drift in ocean currents impacts intergenerational microbial exposure to temperature.” Figshare.https://dx.doi.org/10.6084/m9.figshare.3178534.v2.
+
+Use MEDLINE/PubMed abbreviations of journal titles or use the full journal title for any journals not indexed in MEDLINE.
+
+Articles or chapters in books are cited as follows:
+
+14. Hill AVS (1991) HLA associations with malaria in Africa: some implications for MHC evolution. Molecular Evolution of the Major Histocompatibility Complex, eds Klein J, Klein D (Springer, Heidelberg), pp 403-420.
+
+Figure Legends: Provide these separately from figures, after the references in the manuscript. For figures with multiple panels, the first sentence of the legend should be a brief overview of the entire figure; each panel must be explicitly referenced and described at least once in the figure legend. Graphs should include clearly labeled error bars described in the figure legend. Authors must state whether a number that follows the ± sign is a standard error (SEM) or a standard deviation (SD). The P value, magnification, or scale bar information should be provided when applicable. The number of independent data points (N) represented in a graph must be indicated in the legend. Numerical axes on graphs should go to 0, except for log axes.
